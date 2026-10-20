@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite o artigo e este repositório."
+type: software
+title: "Radar acadêmico de evasão: código e dados de reprodução do artigo do CBS 2026"
+version: 1.0.0
+date-released: "2026-10-20"
+license: MIT
+repository-code: "https://github.com/USUARIO_GITHUB/radar-academico-cbs2026"
+# doi: "10.5281/zenodo.XXXXXXX"  # preencher com o version DOI depois da primeira release
+authors:
+  - family-names: Silva
+    given-names: Ronildo Oliveira da
+    email: ronildosilva@unicatolicaquixada.edu.br
+    affiliation: "Centro Universitário Católica de Quixadá (UniCatólica)"
+    orcid: "https://orcid.org/0009-0008-4629-117X"
+  - family-names: Silva
+    given-names: Francisca Bianca da
+    email: 2024010260@unicatolicaquixada.edu.br
+    affiliation: "Centro Universitário Católica de Quixadá (UniCatólica)"
+    orcid: "https://orcid.org/0009-0008-4503-6337"
+  - family-names: Viana
+    given-names: Isaac da Silva
+    email: 2025010422@unicatolicaquixada.edu.br
+    affiliation: "Centro Universitário Católica de Quixadá (UniCatólica)"
+    orcid: "https://orcid.org/0009-0006-5307-6553"
+abstract: >-
+  Código, dados derivados e figuras que reproduzem os resultados do artigo
+  "Da complexidade do processo à trajetória de presença: sinais de mineração de
+  processos educacionais para um radar de evasão no ensino superior". Inclui a
+  reanálise do conjunto Educational Process Mining (EPM), o gerador sintético
+  de históricos acadêmicos calibrado pelo Censo da Educação Superior e a série
+  agregada do INEP usada na demonstração do protótipo.
+keywords:
+  - educational process mining
+  - student dropout
+  - early warning system
+  - systems thinking
+  - mineração de processos educacionais
+  - evasão
+references:
+  - type: dataset
+    title: "Educational Process Mining (EPM): A Learning Analytics Data Set"
+    authors:
+      - family-names: Vahdat
+        given-names: Mehrnoosh
+      - family-names: Oneto
+        given-names: Luca
+      - family-names: Anguita
+        given-names: Davide
+      - family-names: Funk
+        given-names: Mathias
+      - family-names: Rauterberg
+        given-names: Matthias
+    publisher:
+      name: UCI Machine Learning Repository
+    doi: "10.24432/C5NP5K"
+    year: 2015
+    license: CC-BY-4.0
+# preferred-citation: preencher com os dados dos anais do CBS 2026 quando forem publicados

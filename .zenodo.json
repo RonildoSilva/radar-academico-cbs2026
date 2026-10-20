@@ -1,0 +1,40 @@
+{
+  "upload_type": "software",
+  "title": "Radar acadêmico de evasão: código e dados de reprodução do artigo do CBS 2026",
+  "language": "por",
+  "description": "<p>Código, dados derivados e figuras que reproduzem os resultados do artigo <em>Da complexidade do processo à trajetória de presença: sinais de mineração de processos educacionais para um radar de evasão no ensino superior</em> (Congresso Brasileiro de Sistemas, 2026).</p><p>Inclui a reanálise do conjunto Educational Process Mining (EPM), baixado da UCI por script e não redistribuído, o gerador sintético de históricos acadêmicos calibrado pelo Censo da Educação Superior e a série agregada do INEP usada na demonstração do protótipo.</p><p><em>Code, derived data and figures reproducing the results of the paper \"From process complexity to attendance trajectory: educational process mining signals for a dropout radar in higher education\".</em></p><p>Licenças: código sob MIT; dados derivados, figuras e documentação sob CC-BY-4.0.</p>",
+  "creators": [
+    {
+      "name": "Silva, Ronildo Oliveira da",
+      "affiliation": "Centro Universitário Católica de Quixadá (UniCatólica)",
+      "orcid": "0009-0008-4629-117X"
+    },
+    {
+      "name": "Silva, Francisca Bianca da",
+      "affiliation": "Centro Universitário Católica de Quixadá (UniCatólica)",
+      "orcid": "0009-0008-4503-6337"
+    },
+    {
+      "name": "Viana, Isaac da Silva",
+      "affiliation": "Centro Universitário Católica de Quixadá (UniCatólica)",
+      "orcid": "0009-0006-5307-6553"
+    }
+  ],
+  "keywords": [
+    "educational process mining",
+    "student dropout",
+    "early warning system",
+    "systems thinking",
+    "mineração de processos educacionais",
+    "evasão"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.24432/C5NP5K",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}
