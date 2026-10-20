@@ -1,6 +1,6 @@
 # Radar acadêmico de evasão: reprodução do artigo do CBS 2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23516271.svg)](https://doi.org/10.5281/zenodo.23516271)
 
 Código, dados derivados e figuras que reproduzem os resultados do artigo:
 
